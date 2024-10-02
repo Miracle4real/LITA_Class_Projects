@@ -3,6 +3,7 @@ This is where I intend saving my projects while learning Data Analysis with Incu
 ## Data_Analysis Overview on GitHub
 
 ### Project Overview
+---
 This Data Analysis project aims to generate insights into the sales perfomance of the E commerce project over the past year. By analysing the various paramenters in the data recieved we seek to gather enought insight to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
 
 ### Data Sources 
@@ -24,12 +25,14 @@ In the initial phase of the Data Cleaning and prepartions, we perform the follow
 3. Data Cleaning and formatting
 
 ### Exploratory Data Analysis
+---
 EDA Involves the exploring of Data to answer some questions about the Data suche as;
 - What is overall sales trend
 - which product are top sellers
 - what are the products on peak sales?
 
 ### Data Analysis
+---
 This is where we include some basic lines of code, queries or even some of the DAX expressions used during your analysis;
 
 ```SQL
