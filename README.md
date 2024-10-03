@@ -3,9 +3,12 @@ This is where I intend saving my projects while learning Data Analysis with Incu
 ## Data_Analysis Overview on GitHub
 
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
-Tools Used
-Data Cleaning and Preparations
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 ### Project Overview
 ---
