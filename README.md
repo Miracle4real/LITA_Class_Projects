@@ -2,6 +2,11 @@
 This is where I intend saving my projects while learning Data Analysis with Incubator Hub. 
 ## Data_Analysis Overview on GitHub
 
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+Tools Used
+Data Cleaning and Preparations
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insights into the sales perfomance of the E commerce project over the past year. By analysing the various paramenters in the data recieved we seek to gather enought insight to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
@@ -32,6 +37,7 @@ EDA Involves the exploring of Data to answer some questions about the Data suche
 - what are the products on peak sales?
 
 ### Data Analysis
+
 ---
 This is where we include some basic lines of code, queries or even some of the DAX expressions used during your analysis;
 
@@ -39,3 +45,9 @@ This is where we include some basic lines of code, queries or even some of the D
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+😆 
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
