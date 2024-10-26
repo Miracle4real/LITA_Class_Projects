@@ -1,5 +1,6 @@
 # LITA_Class_Projects
-This is where I intend saving my projects while learning Data Analysis with Incubator Hub. 
+This is where I intend tracking the progress of my projects while learning Data Analysis with Incubator Hub.
+I intend to effectively utilize my GitHub as an intending Data Analyst to highlight my skills.
 ## Data_Analysis Overview on GitHub
 
 [Project Overview](#project-overview)
@@ -12,10 +13,10 @@ This is where I intend saving my projects while learning Data Analysis with Incu
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insights into the sales perfomance of the E commerce project over the past year. By analysing the various paramenters in the data recieved we seek to gather enought insight to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
+My goal for this project is to gain proficiency in data analysis through structured learning journey, encompassing data collection, and visualization. By the end of this journey, I will have the skills to work with various data sets, extract insights, and communicate findings effectively. By extension, analysing the various paramenters in the data recieved to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
 
-### Data Sources 
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source onine such as kaggle or FRED or any other data repository site. 
+### Key Learning Stages 
+ 
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
