@@ -15,7 +15,21 @@ I intend to effectively utilize my GitHub as an intending Data Analyst to highli
 ---
 My goal for this project is to gain proficiency in data analysis through structured learning journey, encompassing data collection, and visualization. By the end of this journey, I will have the skills to work with various data sets, extract insights, and communicate findings effectively. By extension, analysing the various paramenters in the data recieved to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
 
-### Key Learning Stages 
+### Key Learning Stages:- 
+### 1. Foundational Stage:
+Understanding Data Analysis
+- Topics Covered: 
+  - Introducing Data Analysis and its importance: Data Analysis is the compass that guides decision makers through a sea of information. It enables organizations based their choices on concrete evidence rather than intuition or guess work. It provide a deeper understanding of processes, behavious and trends. By analyzing data, decision-makers can assess various options, potential risks and rewards, leading to better choices.
+    Informed Decision-Making 
+     1. Improved Understanding
+     2. Competitive Advantage
+     3. Informed Decision-Making
+     4. Risk Mitigation
+     5. Efficient Resource Allocation
+     6. Continous Improvement 
+
+### Data Sources
+The primary sources of Data used here is Data Sales
  
 
 ### Tools Used
