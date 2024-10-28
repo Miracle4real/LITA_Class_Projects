@@ -16,6 +16,7 @@ I intend to effectively utilize my GitHub as an intending Data Analyst to highli
 My goal for this project is to gain proficiency in data analysis through structured learning journey, encompassing data collection, and visualization. By the end of this journey, I will have the skills to work with various data sets, extract insights, and communicate findings effectively. By extension, analysing the various paramenters in the data recieved to make reasonable decision which then enable us to tell compelling stories around our data from the insight gotten and to know the best performace from our data. 
 
 ### Key Learning Stages:- 
+---
 ### 1. Foundational Stage:
 Understanding Data Analysis
 - Topics Covered: 
@@ -28,6 +29,7 @@ Understanding Data Analysis
      5. Efficient Resource Allocation
      6. Continous Improvement 
 ### 2. Data Collection and Cleaning: 
+---
 #### Building the Basics: 
 - Topics Covered:
   1. Data Collection Methods (APIs, web scraping, surveys).
@@ -45,10 +47,16 @@ Understanding Data Analysis
   3. Data visualization basics (histograms, scatter plots, bar charts and more).
 - Outcomes:
   1. proficiency in using EDA to identify patterns and insights.
-  2. Ability to create meaningful visualization. 
+  2. Ability to create meaningful visualization.
+### Working with Large Datasets
+- Topics covered:
+  - Microsoft Excel: a powerful tool for data analysis, widely used for organizing, analyzing and visualizing data. Below is an overview of how Excel can be used for Data Analysis:
+    1. Sorting and Filtering: Excel allows you to sort data in ascending and descending order and filter out unnecessary data for specific criteria.
+    2. Data Cleaning: This includes removing duplicates, handling missing data, and using functions like TRIM to remove extra spaces. 
+    3. Text to Columns: This feature splits text into different columns, which is useful for separating data like full names int first and last names.  
+  - SQL for D
 ### Data Sources
 The primary sources of Data used here is Data Sales
- 
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
