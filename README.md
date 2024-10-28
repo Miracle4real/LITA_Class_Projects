@@ -27,7 +27,25 @@ Understanding Data Analysis
      4. Risk Mitigation
      5. Efficient Resource Allocation
      6. Continous Improvement 
-
+### 2. Data Collection and Cleaning: 
+#### Building the Basics: 
+- Topics Covered:
+  1. Data Collection Methods (APIs, web scraping, surveys).
+  2. Data Cleaning Techniques (handling missing data, dealing with outliers).
+  3. Introduction to libratries like Excel, SQL and Power BI.
+- Outcome:
+  1. Ability to gather raw data and prepare it for analysis.
+  2. experence in cleaning and organizing datasets.
+- Practice:
+  1. Clean a simple dataset with common data issues (e.g., mising values, duplicate values, e.t.c.)
+### 3. Data Exploration: Getting to know your Data
+- Topics covered:
+  1. Exploratory Data Analysis (EDA) techniques.
+  2. Descriptive statistics.
+  3. Data visualization basics (histograms, scatter plots, bar charts and more).
+- Outcomes:
+  1. proficiency in using EDA to identify patterns and insights.
+  2. Ability to create meaningful visualization. 
 ### Data Sources
 The primary sources of Data used here is Data Sales
  
