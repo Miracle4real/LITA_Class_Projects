@@ -49,8 +49,8 @@ Understanding Data Analysis
   1. proficiency in using EDA to identify patterns and insights.
   2. Ability to create meaningful visualization.
 ### Working with Large Datasets
-- Topics covered:
-  - Microsoft Excel: a powerful tool for data analysis, widely used for organizing, analyzing and visualizing data. Below is an overview of how Excel can be used for Data Analysis:
+- **Topics covered:**
+  - Microsoft Excel [Download Here](https://www.microsoft.com): is a powerful tool for data analysis, widely used for organizing, analyzing and visualizing data. Below is an overview of how Excel can be used for Data Analysis:
     1. Data Loading and Inspection.
     2. Handling missing variables.
     3. Data Cleaning: This includes removing duplicates, handling missing data, and using functions like TRIM to remove extra spaces.
@@ -61,7 +61,20 @@ Understanding Data Analysis
        ![Sorting (Ascending)](https://github.com/user-attachments/assets/b1c91dd4-0ead-4f8f-b669-8de9f3b8168b)
        ![Sorting (decending order)](https://github.com/user-attachments/assets/1085bd5c-41f3-4f67-bc55-142f6b74d4fd)
 
-  - SQL for D
+  - SQL for Data Analysis
+    SQL Stands for Structured Query Language. It is used for storing and managing data in Relational Database Management System (RDBMS). It was noted that all the RDBMS like MySQL, PostgreSQL, Oracle, MS Access, and SQL Server use SQL as their standard database language. SQL allows users to query the database in a number of ways, using English-like statements.
+    SQL follows the below rules:
+    1. SQL is not case sensitive.
+    2. SQL depends on relational algebra.
+    3. Statement of SQL are dependent on text lines.
+    4. SQL statements allows you to perform most of the actions in a database.
+  - **Some Advantages of SQL are:**
+    1. Data integrity
+    2. Security
+    3. Backup and Recovery
+    4. Efficiency Data Management etc. 
+
+       
 ### Data Sources
 The primary sources of Data used here is Data Sales
 
