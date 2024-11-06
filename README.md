@@ -1,4 +1,4 @@
-![Excel Functions](https://github.com/user-attachments/assets/c8d1bfed-176c-4b67-bd5a-8cf1744226ef)# LITA_Class_Projects
+LITA_Class_Projects
 This is where I intend tracking the progress of my projects while learning Data Analysis with Incubator Hub.
 I intend to effectively utilize my GitHub as an intending Data Analyst to highlight my skills.
 ## Data_Analysis Overview on GitHub
@@ -56,6 +56,10 @@ Understanding Data Analysis
     3. Data Cleaning: This includes removing duplicates, handling missing data, and using functions like TRIM to remove extra spaces.
     4. Sorting and Filtering: Excel allows you to sort data in ascending and descending order and filter out unnecessary data for specific criteria.
     5. Text to Columns: This feature splits text into different columns, which is useful for separating data like full names int first and last names.
+       Exaples of Basic Excel Formatting.
+       ![Excel Functions](https://github.com/user-attachments/assets/19616988-49e5-4f4c-8295-17deaca47b72)
+       ![Sorting (Ascending)](https://github.com/user-attachments/assets/b1c91dd4-0ead-4f8f-b669-8de9f3b8168b)
+       ![Sorting (decending order)](https://github.com/user-attachments/assets/1085bd5c-41f3-4f67-bc55-142f6b74d4fd)
 
   - SQL for D
 ### Data Sources
