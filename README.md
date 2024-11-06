@@ -72,7 +72,15 @@ Understanding Data Analysis
     1. Data integrity
     2. Security
     3. Backup and Recovery
-    4. Efficiency Data Management etc. 
+    4. Efficiency Data Management etc. Consistent columns types are one of the main reasons working with databases is fast.
+  - **Basic SQL Commands:** SQL commands are instructions, it is used to communicate with the database. it performs specific tasks, functions, and queries of data. SQL can perform various tasks like **Create a table,** **add data to table,** **drop the table,** **modify the table,** **set permistions for users.**
+  - **Types of SQL Commands:**
+    1. DQL: Data Query Language - This used to fetch data from database and it uses only one command. 
+    2. TCL: Transaction Control Language
+    3. DCL: Data Control Language
+    4. DDL: Data Defination Language
+    5. DML: Data Manipulation Language
+    ![SQL Command Types](https://github.com/user-attachments/assets/19a23381-be8c-48bd-aec9-14a187bd512e)
 
        
 ### Data Sources
