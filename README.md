@@ -106,7 +106,7 @@ Understanding Data Analysis
    - Key Components of Power BI
      1. **Power BI Destop:** This is a windows application that allows your to create reports and data visualizations.
      2. **Power BI Service:** This is an online service where you can publish, share, and collaborate on power BI reports and dashboards.
-     3.  
+     3. **Power BI Mobile:** This is a mobile application for Android. iOS, and Windows devices, allowing you to access and interact with your data from anywhere.
    
 ### Data Sources
 The primary sources of Data used here is Data Sales
