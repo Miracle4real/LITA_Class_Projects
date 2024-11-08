@@ -81,6 +81,22 @@ Understanding Data Analysis
     4. DDL: Data Defination Language
     5. DML: Data Manipulation Language
     ![SQL Command Types](https://github.com/user-attachments/assets/19a23381-be8c-48bd-aec9-14a187bd512e)
+  - **SQL KEYS:** Key are special fields in a table that help:
+    - Create relationships between tables,
+    - Maintain uniqueness, and
+    - Ensure data is consistent and valid.
+  - **Database Keys**
+    - Primary Key: This key uniquely identifies each record in a table. It was a point to note that "Each table can have only one primary key".
+    - Foreign Key: This key uniquely identifies a row of another table, creating a relationship between the two table.
+    - Sorrogate Key: This is a unique identifier for each record in a table created by the database itself.
+    - Composite Key is a group of two or more columns that identifies each row of a table uniquely.
+    - Candidate Key is a key of a table which can be selected as primary key.
+    - Alternate Key is a candidate key, currently not selected as a primary key of the table.
+      
+  - **SQL Aggregate Functions**
+    ![SQL Aggregation Function](https://github.com/user-attachments/assets/db1f802c-c509-4d8b-873b-7ff203f6140e)
+
+
 
        
 ### Data Sources
