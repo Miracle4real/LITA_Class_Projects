@@ -93,8 +93,18 @@ Understanding Data Analysis
     - Candidate Key is a key of a table which can be selected as primary key.
     - Alternate Key is a candidate key, currently not selected as a primary key of the table.
       
-  - **SQL Aggregate Functions**
+  - **SQL Aggregate Functions:** SQL aggregate functions are powerful tools used to perform calculations on a set of values, returning a single balue that summarizes the data. 
     ![SQL Aggregation Function](https://github.com/user-attachments/assets/db1f802c-c509-4d8b-873b-7ff203f6140e)
+  - **SQL Joins:** SQL Joins has to do with combining two or more tables.
+    ![SQL Joins](https://github.com/user-attachments/assets/3451ed4f-d636-40b1-974e-754a34e81454)
+
+    
+  - **SQL Set Operation:** This allows you to combine the result of two or more SELECT queries. This treat result sets as mathematical sets. SQL provides the following set operations:
+    - Union
+    - Union All
+    - Intersect
+
+    
 
 
 
