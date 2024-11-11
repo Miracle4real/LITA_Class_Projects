@@ -107,6 +107,11 @@ Understanding Data Analysis
      1. **Power BI Destop:** This is a windows application that allows your to create reports and data visualizations.
      2. **Power BI Service:** This is an online service where you can publish, share, and collaborate on power BI reports and dashboards.
      3. **Power BI Mobile:** This is a mobile application for Android. iOS, and Windows devices, allowing you to access and interact with your data from anywhere.
+   - Power BI can be used to do the following:
+     1. Connect to Data: Import data from multiple sources, including Excel, databases, cloud services (e.g., Azure), web services, and more.
+     2.  
+     
+  
    
 ### Data Sources
 The primary sources of Data used here is Data Sales
